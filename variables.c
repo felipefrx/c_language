@@ -1,17 +1,16 @@
-
 #define PI 3.1416
 
 int main(){
 
-    short a = 10;
-    int b = 1000;
-    long c = 100000000;
-    float d = 1.11111;
-    double e = 1.11111111111111;
-    char f = 'Text'; 
-    char x = PI; //Constante
-    double = (int)6.0; //Casting
-    unsigned int n; //Somente valores positivos 
-    n = 10;
+    short num1 = 10;
+    int num2 = 1000;
+    long num3 = 100000000;
+    float num4 = 1.11111;
+    double num5 = 1.11111111111111;
+    char num6 = 'Text'; 
+    char num7 = PI; //Constante
+    double num8; 
+    num8 = (int) 6; //Casting
 
+    return 0; 
 }
