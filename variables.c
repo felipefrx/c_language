@@ -8,9 +8,9 @@ int main(){
     float num4 = 1.11111;
     double num5 = 1.11111111111111;
     char num6 = 'Text'; 
-    char num7 = PI; //Constante
+    char num7 = PI; // Constante
     double num8; 
-    num8 = (int) 6; //Casting
+    num8 = (int) 6; // Casting
 
     return 0; 
 }
