@@ -8,6 +8,7 @@ int main (){
     int num4 = a / b;
     int num5 = a % b;
 
+    int x;
     a = a + 1;
     // The value of 'A' is used and then incremented.
     x = (a++) * 2; // 1 * 2 = 2

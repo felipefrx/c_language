@@ -1,16 +1,14 @@
 #include <stdio.h>
 
-main (){
+int main(){
 
     int x = 10;
     int y = 2;
 
-    printf("%d\n", x==y);
+    printf("%d\n", x==y); // Return 0(False).
 
+    return 0;
 }
-
-
-
 
     /*
         == : Equal
