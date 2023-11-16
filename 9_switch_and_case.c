@@ -6,7 +6,7 @@ int main(){
     printf("Enter note: ");
     scanf("%d", &a);
 
-    switch(a){
+    switch(a){ // Cannot make conditions.
         case 'A': 
             printf("Approved. \n"); // if a == 'A'
             break;
